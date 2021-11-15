@@ -5,6 +5,9 @@ Pasta
 Chiken
 
 
+beans
+pizza
+
 
 
 Thank You
@@ -12,4 +15,8 @@ Thank You
 
 
 
+Done my changes
+
+
 Final copy
+
